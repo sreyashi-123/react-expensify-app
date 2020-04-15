@@ -31,6 +31,7 @@ const CSSExtract = new ExtractTextPlugin('styles.css');
               options:{
                 sourceMap: true
               }
+            }
           ]
         })
       }]
