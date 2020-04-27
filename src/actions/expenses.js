@@ -73,7 +73,7 @@ export const setExpenses = (expenses) => ({
 //       snapshot.forEach((childSnapshot) => {
 //         expenses.push({
 //           id: childSnapshot.key,
-//           ...childSnapshot.val()
+//          ...childSnapshot.val()
 //         });
 //       });
 
